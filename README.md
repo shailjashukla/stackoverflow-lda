@@ -8,3 +8,5 @@ Jupyter notebook for LDA topic modelling on Stackoverflow.com data
 Code snippets taken from 
 - [Official gensim library codebase](https://github.com/RaRe-Technologies/gensim)
 - https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/#16buildingldamalletmodel
+- https://www.machinelearningplus.com/nlp/topic-modeling-visualization-how-to-present-results-lda-models/
+- https://www.tutorialspoint.com/gensim/gensim_creating_lda_mallet_model.htm
